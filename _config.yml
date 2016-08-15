@@ -6,9 +6,9 @@ color:
   saturation: 0.3575649815611541
   rhythmicContrast: 0.8601828289683908
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
 name: Antonio Surisadai
