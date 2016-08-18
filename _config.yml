@@ -1,4 +1,3 @@
-layout_spectrum: 0.7278299524914473
 typography_spectrum: 0.8590521281585097
 color:
   brandStrength: 0.6789247805718333
@@ -11,4 +10,9 @@ color:
     - '#808080'
     - '#BFBFBF'
     - '#FFFFFF'
+layout_spectrum: 0.7278299524914473
+author:
+  name: Antonio Surisadai Gomez Lopez
+  email: antoniosurisadai@hotmail.com
 name: Antonio Surisadai
+title: ''
