@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Antonio Surisadai]]></title>
         <description><![CDATA[Antonio Surisadai]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://antoniosurisadai.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 04:44:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Aug 2016 05:13:04 GMT</lastBuildDate>
+        <atom:link href="http://antoniosurisadai.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why people under 35 are so unhappy]]></title>
+            <description><![CDATA[<article><h1>Why people under 35 are so unhappy</h1><p>This post originally appeared on Wait But Why. Say hi to Lucy. Lucy is part of Generation Y, the generation born between the late 1970s and the mid 1990s. She's also part of a yuppie culture that makes up a large portion of Gen Y. I have a term for yuppies in the Gen Y...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0469c82cfc736c3f314f6d0279536a19/noop?input=https%3A%2F%2Fqzprod.files.wordpress.com%2F2015%2F10%2Flucys-parents.png%26h%3D301"></article>]]></description>
+            <link>http://qz.com/529162/why-generation-y-yuppies-are-unhappy/</link>
+            <guid isPermaLink="false">0f88abcb-b613-4788-844d-3749d954c8d2</guid>
+            <pubDate>Thu, 18 Aug 2016 05:13:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Maximum Likelihood by Antonio Surisadai]]></title>
             <description><![CDATA[<article><h1>Maximum Likelihood by Antonio Surisadai</h1><p>Enjoy ;D 00. Apollo 11 countdown 01. Obstacles - Echonomist feat. Mz Sunday Luv (Pol on Remix) 02. Slave to your heart - Zimmer (Xionbi Remix) 03. Sleazy E - Maceo Plex 04. Frisky - Maceo Plex 05. Wongel - Lee Burridge & Matthew Dekay 06.</p></article>]]></description>
